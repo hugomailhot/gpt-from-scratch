@@ -9,6 +9,10 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "~3.10"
 datasets = "^2.17.0"
+jupyter = "^1.0.0"
+bertviz = "^1.4.0"
+ipywidgets = "^8.1.2"
+transformers = "^4.37.2"
 
 
 [tool.poetry.group.dev.dependencies]
