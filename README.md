@@ -1,6 +1,6 @@
 # gpt-from-scratch
 
-Mom, I want GPT!
+Mom, I want GPT!  
 We already have GPT at home.
 
 The GPT at home:
