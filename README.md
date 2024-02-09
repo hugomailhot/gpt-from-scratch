@@ -6,15 +6,12 @@ We already have GPT at home.
 The GPT at home:
 
 
-## Install the repo
-
-
-### Prerequisites
+## Prerequisites
 
 - [Poetry](https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 
-### Install
+## Install
 
 Clone repo, cd into it.
 
