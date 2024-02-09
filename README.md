@@ -1,7 +1,7 @@
 # gpt-from-scratch
 
-Mom, I want GPT!  
-We already have GPT at home.  
+Mom, I want GPT!
+We already have GPT at home.
 
 The GPT at home:
 
@@ -23,4 +23,10 @@ poetry install
 
 ```sh
 poetry run python data_collection/get_wikipedia_dataset.py
+```
+
+## Jupyter Lab
+
+```sh
+poetry run jupyter lab
 ```
