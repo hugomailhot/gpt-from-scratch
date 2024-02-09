@@ -1,7 +1,7 @@
 # gpt-from-scratch
 
-Mom, I want GPT!  
-We already have GPT at home.
+Mom can we get GPT?  
+We have GPT at home.
 
 The GPT at home:
 
